@@ -8,4 +8,4 @@ It's the same way you use SyFlood, look at my profile and look for SyFlood, whic
 Unfortunately SyRaider is Closed Source, I will not open it to avoid people using it unethically and modifying it to be something extremely dangerous
 
 # WARNING ⚠️
-Don't use SyRaider for evil, it's just a program to troll your friends, don't do this in communities you don't know and Raid/Flood/Spam is prohibited.
+Don't use SyRaider for evil, it's just a program to troll your friends, don't do this in communities you don't know and Raid/Flood/Spam is prohibited. and I will not be held responsible for punishment for using my program, did you know that automatic scripts that use User Tokens are prohibited and are against Discord's TOS, so did you know that you are responsible for receiving punishments
